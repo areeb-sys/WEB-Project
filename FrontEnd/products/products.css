@@ -1,0 +1,62 @@
+.navbar-light .navbar-brand {
+    color: rgb(20, 18, 3);
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    
+    
+  }
+  
+  .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: rgb(41, 35, 4);
+    
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: rgb(15, 14, 1);
+    font-weight: bolder;
+
+    
+  }
+  
+  
+  .navbar-nav {
+    text-align: center;
+    
+    
+  }
+  
+  .nav-link {
+    padding: .2rem 1rem;
+  }
+  
+  
+  .navbar-toggler {
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(10, 0, 0);
+  }
+
+  #prod
+  {
+      padding-top: 100px;
+      background-color: orange;
+     
+  }
+
+  .card:hover
+  {
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.74);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.74);
+    box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.74);
+
+  }
+ #row1
+  {
+    height: 300px;
+  }
